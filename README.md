@@ -1,4 +1,8 @@
 # Recommenders
+Please get the Data sets from below link before trying to run the recommender codes:
+
+https://grouplens.org/datasets/movielens/
+
 
 The codes are originally from: 
 
